@@ -1,0 +1,207 @@
+{
+  "domain": "tapasgathering",
+  "niche": "Artisanal Spanish Tapas & Evening Communal Gastronomy",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "tapasgathering_asset_1.jpg",
+      "size_kb": 353.46,
+      "md5": "c6e245b30cd37535bcfc5fcf2cd6b299",
+      "description": "Saffron-infused wood-fired Paella Valenciana with fresh rosemary",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "tapasgathering_asset_2.jpg",
+      "size_kb": 135.0,
+      "md5": "53320c493cd4ae2a95739e1ab03de425",
+      "description": "Crisp golden potato cubes with fiery smoked paprika brava reduction",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "tapasgathering_asset_3.jpg",
+      "size_kb": 173.74,
+      "md5": "07308b9137df2ea7d491fa61ca53e323",
+      "description": "Charred blistered Padr\u00f3n peppers sprinkled with coarse Mediterranean sea salt",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "tapasgathering_asset_4.jpg",
+      "size_kb": 144.45,
+      "md5": "e74afa03828d4137bacbbcfe4541c552",
+      "description": "Crisp golden croquetas with creamy b\u00e9chamel and cured Ib\u00e9rico jam\u00f3n",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "tapasgathering_asset_5.jpg",
+      "size_kb": 67.08,
+      "md5": "c70e9b6c892f03a0ff2e3c4078700421",
+      "description": "Rustic toasted sourdough rubbed with vine tomatoes and Arbequina olive oil",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "tapasgathering_asset_6.jpg",
+      "size_kb": 116.45,
+      "md5": "eff93fcfeb768b2b021576fd1e57740b",
+      "description": "Tender Atlantic octopus dusted with sweet smoked piment\u00f3n on olive oil emulsion",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "tapasgathering_asset_7.jpg",
+      "size_kb": 122.44,
+      "md5": "a1b2bc8f69904b355a96abe929ec900a",
+      "description": "Chilled heirloom tomato and cucumber gazpacho with extra virgin olive oil",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "tapasgathering_asset_8.jpg",
+      "size_kb": 120.24,
+      "md5": "1e27ddb352ce45825033206450c5c0cf",
+      "description": "Hand-rolled Spanish meatballs simmered in rich tomato and garlic sofrito",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "tapasgathering_asset_9.jpg",
+      "size_kb": 129.14,
+      "md5": "4c28574ed2eae2e4b333ac2e687fe67c",
+      "description": "Marinated white anchovy fillets seasoned with minced garlic and fresh parsley",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "tapasgathering_asset_10.jpg",
+      "size_kb": 270.71,
+      "md5": "ada69f77325275e36731fbec8a5cd926",
+      "description": "Golden artisan puff pastry empanada stuffed with spiced bell pepper sofrito",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "tapasgathering_asset_11.jpg",
+      "size_kb": 133.14,
+      "md5": "7a326df6fe7fad3b79841fd1a898f46d",
+      "description": "Wood-roasted red peppers, sweet onions, and aubergines dressed in olive oil",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "tapasgathering_asset_12.jpg",
+      "size_kb": 192.15,
+      "md5": "200fcea278e51b1ddcf946f0076e5c43",
+      "description": "Sizzling wild king prawns infused with golden garlic slivers and dried chili",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "tapasgathering_asset_13.jpg",
+      "size_kb": 261.37,
+      "md5": "64938478238133a527c6aea24d1420cb",
+      "description": "Hand-cracked green Verdial olives steeped in wild thyme and Seville orange peel",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "tapasgathering_asset_14.jpg",
+      "size_kb": 203.05,
+      "md5": "ffcc59957c6236ca77facf069739ee9a",
+      "description": "Paper-thin hand-carved dry-cured Spanish jam\u00f3n with glistening marbling",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "tapasgathering_asset_15.jpg",
+      "size_kb": 288.4,
+      "md5": "ef678d8d0f6d02b30c0b93755bd4a634",
+      "description": "Slow-cooked La Mancha vegetable ragout with sweet peppers and ripe tomatoes",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "tapasgathering_asset_16.jpg",
+      "size_kb": 244.98,
+      "md5": "45228c15f486bbf9e3df0b35b58c2428",
+      "description": "Traditional Spanish potato and caramelized onion omelette served warm",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "tapasgathering_asset_17.jpg",
+      "size_kb": 162.96,
+      "md5": "9ae81cf218f58ff358496ec16fd84f7e",
+      "description": "Silky Cordoban tomato cream garnished with hard-boiled egg and jam\u00f3n serrano",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "tapasgathering_asset_18.jpg",
+      "size_kb": 54.48,
+      "md5": "f3e990ae455cc390cfe50f1f5fdc7e82",
+      "description": "Skewered spiced pork tenderloin marinated in Andalusian Moorish spices",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "tapasgathering_asset_19.jpg",
+      "size_kb": 190.22,
+      "md5": "f9d36ecd56d7ba41418d2c177f6e68db",
+      "description": "Freshly piped artisan churros dusted with sugar beside velvety dipping chocolate",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "tapasgathering_asset_20.jpg",
+      "size_kb": 82.3,
+      "md5": "2278a371d54c62210f06964e34815301",
+      "description": "Aged raw sheep milk Manchego cheese wedges with walnuts and dried Mediterranean figs",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://tapasgathering.com/sitemap.xml",
+    "robots": "https://tapasgathering.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
